@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-quotation/static/css/main.45b1a70e.css",
+    "main.js": "/react-quotation/static/js/main.f7558a2d.js",
+    "static/js/111.7c7ca46f.chunk.js": "/react-quotation/static/js/111.7c7ca46f.chunk.js",
+    "index.html": "/react-quotation/index.html",
+    "main.45b1a70e.css.map": "/react-quotation/static/css/main.45b1a70e.css.map",
+    "main.f7558a2d.js.map": "/react-quotation/static/js/main.f7558a2d.js.map",
+    "111.7c7ca46f.chunk.js.map": "/react-quotation/static/js/111.7c7ca46f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b1a70e.css",
+    "static/js/main.f7558a2d.js"
+  ]
+}
